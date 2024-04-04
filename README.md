@@ -2,7 +2,7 @@ Vanna is a python package that uses retrieval augmentation to help you generate 
 
 <center><img src="https://vanna.ai/docs/img/how-vanna-works.gif" width="500" height="350"></center>
 
-WHY Vanna?:<br>
+Why Vanna?:<br>
 1)Limited SQL proficiency among stakeholders which allows only technical query language to generate insights<br>
 2)Manual process is painful which has long wait time periods and follow-ups hinder the decisions<br>
 3)Data analysts are overloaded with requsts which slows their core work<br>
