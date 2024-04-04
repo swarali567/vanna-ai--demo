@@ -12,5 +12,5 @@ It relies on 2 components:<br>
 1)Retrieval: It searches for relevant information from database based on question using vn.train(...)<br>
 2)Generation: It uses a large language model (LLM) to translate the retrieved information into a well-formed SQL query using vn.ask(...)
 
-It can be integrated woth arious databases with frontends and it can learn from itself.
+It can be integrated with various databases with frontends and can learn from itself.
 It is open-souce which can be used for various applications like analyzing sales and revenue data, enahancig customer satisfaction in enterprises.
